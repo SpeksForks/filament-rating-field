@@ -252,7 +252,7 @@ use Yepsua\Filament\Forms\Components\Rating
 * ->height(): Set the height value for each item in the field: Default: 6
 * ->size(): Set the same value for the width and height properties.
 * ->effects(): Enable\Disable the mouseenter and mouseleave effects. Default: true (enabled)
-* ->clearable(): Add a extra icon at the end of the rating icons. Default: false
+* ->clearable(): Add an extra icon at the end of the rating icons. Default: false
 * ->cursor(): Set the default cursor
 * ->disabledCursor(): Set the cursor to be displayed when the field is disabled
 * ->clearIconTooltip(): Set the tooltip for the clear icon.
